@@ -3,3 +3,8 @@ c:\users\chris\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\D
 c:\users\chris\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
 c:\users\chris\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
 c:\users\chris\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Chris\Documents\GitHub\AlgorithmsLibrary\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Chris\Documents\GitHub\AlgorithmsLibrary\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Chris\Documents\GitHub\AlgorithmsLibrary\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Chris\Documents\GitHub\AlgorithmsLibrary\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Chris\Documents\GitHub\AlgorithmsLibrary\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache

@@ -286,7 +286,5 @@ namespace Algorithms
             }
             Console.WriteLine(outputString);
         }
-
-        public static void 
     }
 }
