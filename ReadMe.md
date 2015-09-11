@@ -9,6 +9,3 @@ Currently Implemented Algorithms:
 -SimpleSort
 -Binary Search
 
-TODO:
--Tree Manipulation
--Other data structures
